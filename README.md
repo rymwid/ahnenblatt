@@ -1,4 +1,4 @@
-# Ahnenblatt v. 2.99e  [
+# Ahnenblatt v. 2.99e  
 
 * Why is it called “Ahnenblatt”?
 Ahnenblatt is a “Made in Germany” Windows-based genealogy software. But why is an international software called “Ahnenblatt”?
